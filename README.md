@@ -1,8 +1,8 @@
-# Hello, World! 🌍<br>
+# Hello, World! <br>
 
 ## My name is Huda, also known as 慧道 (Huì Dào) in Chinese. I’m a designer, coder, and perpetual learner exploring the intersections of creativity, logic, and philosophy.<be>
 
-### Meet Me in the Liminal<br>You can find me somewhere between thought and creation, in the spaces where ideas take shape and reality bends—a realm of exploration, questions, and quiet revolutions.
+### 🌀 Meet Me in the Liminal<br>You can find me somewhere between thought and creation, in the spaces where ideas take shape and reality bends—a realm of exploration, questions, and quiet revolutions.
 
 
 # 🛠️ **Languages and Tools (so far):** 
