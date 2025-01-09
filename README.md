@@ -1,4 +1,4 @@
-#Hello, World! 🌍
+# Hello, World! 🌍
 
 My name is Huda, also known as 慧道 (Huì Dào) in Chinese. I’m a designer, coder, and perpetual learner exploring the intersections of creativity, logic, and philosophy.
 
