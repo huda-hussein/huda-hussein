@@ -1,8 +1,8 @@
 # Hello, World! 🌍
 
-My name is Huda, also known as 慧道 (Huì Dào) in Chinese. I’m a designer, coder, and perpetual learner exploring the intersections of creativity, logic, and philosophy.
+## My name is Huda, also known as 慧道 (Huì Dào) in Chinese. I’m a designer, coder, and perpetual learner exploring the intersections of creativity, logic, and philosophy.
 
-🌀 Meet Me in the Liminal
+### 🌀 Meet Me in the Liminal
 You can find me somewhere between thought and creation, in the spaces where ideas take shape and reality bends—a realm of exploration, questions, and quiet revolutions.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=huda-hussein&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&currStreakNum=0040FF)](https://git.io/streak-stats)
