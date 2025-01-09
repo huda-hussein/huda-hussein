@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=huda-hussein&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&currStreakNum=0040FF)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huda-husseine&layout=compact&theme=vision-friendly-dark)](https://github.com/huda-hussein/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huda-hussein&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Languages and tools used:
 <div>
