@@ -1,9 +1,9 @@
-# Hello, World! <br>
-
-## My name is Huda, also known as 慧道 (Huì Dào) in Chinese. I’m a designer, coder, and perpetual learner exploring the intersections of creativity, logic, and philosophy.<be>
-
-### 🌀 Meet Me in the Liminal<br>You can find me somewhere between thought and creation, in the spaces where ideas take shape and reality bends—a realm of exploration, questions, and quiet revolutions.
-
+<div style="font-family: 'BIZ UDMincho';">
+  <h1>Hello, World!</h1>
+  <h2>My name is Huda, also known as 慧道 (Huì Dào) in Chinese. I’m a designer, coder, and perpetual learner exploring the intersections of creativity, logic, and philosophy.</h2>
+  <h3>🌀 Meet Me in the Liminal</h3>
+  <p>You can find me somewhere between thought and creation, in the spaces where ideas take shape and reality bends—a realm of exploration, questions, and quiet revolutions.</p>
+</div>
 
 # 🛠️ **Languages and Tools (so far):** 
 <div id="icons" style="display: flex; align-items: center;">
