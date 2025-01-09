@@ -1,6 +1,8 @@
-# 💫 About Me:
-Hello, World! 🌍<br>My name is Huda, also known as 慧道 (Huì Dào) in Chinese. I’m a designer, coder, and perpetual learner exploring the intersections of creativity, logic, and philosophy.<br>🌀 Meet Me in the Liminal<br>You can find me somewhere between thought and creation, in the spaces where ideas take shape and reality bends—a realm of exploration, questions, and quiet revolutions.
+# Hello, World! 🌍<br>
 
+## My name is Huda, also known as 慧道 (Huì Dào) in Chinese. I’m a designer, coder, and perpetual learner exploring the intersections of creativity, logic, and philosophy.<br>
+
+### 🌀 Meet Me in the Liminal<br>You can find me somewhere between thought and creation, in the spaces where ideas take shape and reality bends—a realm of exploration, questions, and quiet revolutions.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/huda-hussein) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hudadulaimii) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/huda-hussein) 
